@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>La verità sul caso Harry Quebert</title>
+</head>
+<body> 
+
+<h1 style="background-color:powderblue;">My last book</h1>
+<p><b>La verità sul caso Harry Quebert</b></p>
+<p><u>Joël Dicker</u></p>
+<p><i>La vérité sur l’affaire Harry Quebert</i></p>
+
+<style>
+img {
+  border: 5px solid #555;
+}
+</style>
+
+<p><img src=“DB7E0AFE-03A3-42C8-B14A-9357CDA73699.jpg” title=“Harry Quebert”alt=“libro” width=“200” height=“250”></p>
+
+<a href=“https://www.ibs.it/verita-sul-caso-harry-quebert-libro-joel-dicker/e/9788845273285”>Another image</a>
+<p> <a href=“https://www.ilmondoincantatodeilibri.it/la-verita-sul-caso-harry-quebert-dal-testo-scritto-al-testo-visivo-gli-imperativi-della-civilta-dellimmagine/”>A fragment of the text</a> </p>
+
+<p style="background-color:lightpink;">“Se hai dubbi su ciò che stai facendo, mettiti a correre. Corri a perdifiato, senza mai fermarti. Sentirai nascere in te la rabbia di vincere.”</p>
+
+<p style="background-color:lightyellow;"> “Quello che conta è il percorso che fai tra il gong della prima ripresa e quello finale. Il risultato del match, in fondo, è solo un’informazione per il pubblico. Chi ha il diritto di dire che hai perso, se tu senti di aver vinto? La vita è come una corsa podistica, Marcus: ci sarà sempre qualcuno più veloce o più lento di te. L’unica cosa che conta, alla fine, è l’energia con cui hai coperto il tuo percorso.”</p>
